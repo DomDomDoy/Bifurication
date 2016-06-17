@@ -3,7 +3,10 @@ An animation of the logistic equation on one axis using Vanilla JS/HTML5 Canvas
 
 
 Information about Bifurication Diagrams:
-http://en.wikipedia.org/wiki/Bifurcation_diagram  
+http://en.wikipedia.org/wiki/Bifurcation_diagram   
+
+Link to live demo: 
+http://thlinketo.org/2015/03/20/animating-population-evolution-using-the-canvas-element/ 
 
 note: I am randomly fixing x0 and then updating this one point as the simulation continues
 
